@@ -63,7 +63,7 @@ pip install opencv-python mediapipe pyautogui numpy
 1. Open the game (e.g., [Subway Surfers](https://subwaysurfers.online/)) in your browser.
 2. Run the Python script:
     ```bash
-    python gesture_game.py
+    python gesture.py
     ```
 3. Focus the game window.
 4. Use your hand to control the character with gestures.
